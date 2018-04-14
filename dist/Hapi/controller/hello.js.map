@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../Hapi/controller/hello.js"],"names":["hello","request","reply"],"mappings":";;;;;QAAsBA,K,GAAAA,K;AAAf,eAAeA,KAAf,CAAqBC,OAArB,EAA8BC,KAA9B,EAAqC;AACzC,UAAQ,aAAR;AACF","file":"hello.js","sourcesContent":["export async function hello(request, reply) {\n   return ('hello world');\n}\n"]}

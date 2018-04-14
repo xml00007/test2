@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../npm/test1.js"],"names":["aaa","require","console","log","sayHello"],"mappings":";;AAAA,IAAMA,MAAMC,QAAQ,cAAR,CAAZ;AACAC,QAAQC,GAAR,CAAYH,IAAII,QAAJ,EAAZ","file":"test1.js","sourcesContent":["const aaa = require('xinmingliang');\nconsole.log(aaa.sayHello());"]}

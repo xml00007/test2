@@ -1,0 +1,758 @@
+0 silly input []
+1 silly flags { _: [ 'bootstrap' ],
+1 silly flags   'reject-cycles': false,
+1 silly flags   rejectCycles: false,
+1 silly flags   args: [] }
+2 verbose rootPath /Users/finup/Documents/test2
+3 info version 2.10.1
+4 silly existsSync /Users/finup/Documents/test2/VERSION
+5 silly initialize attempt
+6 silly npmConfig { registry: undefined,
+6 silly npmConfig   npmClient: undefined,
+6 silly npmConfig   npmClientArgs: undefined,
+6 silly npmConfig   mutex: undefined }
+7 silly initialize success
+8 silly execute attempt
+9 info Bootstrapping 2 packages
+10 info lifecycle preinstall
+11 silly runScript preinstall undefined
+12 silly
+13 silly runScript preinstall test2
+14 silly test2
+15 silly hasDependencyInstalled test2 del
+16 silly dependencyIsSatisfied [ 'del', '^3.0.0', '/Users/finup/Documents/test2/node_modules' ]
+17 verbose dependencyIsSatisfied del false
+18 silly hasDependencyInstalled test2 gulp-babel
+19 silly dependencyIsSatisfied [ 'gulp-babel',
+19 silly dependencyIsSatisfied   '^7.0.0',
+19 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+20 verbose dependencyIsSatisfied gulp-babel false
+21 silly hasDependencyInstalled test2 gulp-concat
+22 silly dependencyIsSatisfied [ 'gulp-concat',
+22 silly dependencyIsSatisfied   '^2.6.1',
+22 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+23 verbose dependencyIsSatisfied gulp-concat false
+24 silly hasDependencyInstalled test2 gulp-jshint
+25 silly dependencyIsSatisfied [ 'gulp-jshint',
+25 silly dependencyIsSatisfied   '^2.0.4',
+25 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+26 verbose dependencyIsSatisfied gulp-jshint false
+27 silly hasDependencyInstalled test2 gulp-minify-css
+28 silly dependencyIsSatisfied [ 'gulp-minify-css',
+28 silly dependencyIsSatisfied   '^1.2.4',
+28 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+29 verbose dependencyIsSatisfied gulp-minify-css false
+30 silly hasDependencyInstalled test2 gulp-rename
+31 silly dependencyIsSatisfied [ 'gulp-rename',
+31 silly dependencyIsSatisfied   '^1.2.2',
+31 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+32 verbose dependencyIsSatisfied gulp-rename false
+33 silly hasDependencyInstalled test2 gulp-uglify
+34 silly dependencyIsSatisfied [ 'gulp-uglify',
+34 silly dependencyIsSatisfied   '^3.0.0',
+34 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+35 verbose dependencyIsSatisfied gulp-uglify false
+36 silly hasDependencyInstalled test2 lerna
+37 silly dependencyIsSatisfied [ 'lerna',
+37 silly dependencyIsSatisfied   '^2.10.1',
+37 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+38 verbose dependencyIsSatisfied lerna false
+39 silly hasDependencyInstalled test2 @nirvana/nirvana-develop-openapi
+40 silly dependencyIsSatisfied [ '@nirvana/nirvana-develop-openapi',
+40 silly dependencyIsSatisfied   '0.0.279',
+40 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+41 verbose dependencyIsSatisfied @nirvana/nirvana-develop-openapi false
+42 silly hasDependencyInstalled test2 babel-cli
+43 silly dependencyIsSatisfied [ 'babel-cli',
+43 silly dependencyIsSatisfied   '^6.24.1',
+43 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+44 verbose dependencyIsSatisfied babel-cli false
+45 silly hasDependencyInstalled test2 babel-eslint
+46 silly dependencyIsSatisfied [ 'babel-eslint',
+46 silly dependencyIsSatisfied   '^8.0.3',
+46 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+47 verbose dependencyIsSatisfied babel-eslint false
+48 silly hasDependencyInstalled test2 babel-plugin-transform-decorators
+49 silly dependencyIsSatisfied [ 'babel-plugin-transform-decorators',
+49 silly dependencyIsSatisfied   '^6.24.1',
+49 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+50 verbose dependencyIsSatisfied babel-plugin-transform-decorators false
+51 silly hasDependencyInstalled test2 babel-plugin-transform-decorators-legacy
+52 silly dependencyIsSatisfied [ 'babel-plugin-transform-decorators-legacy',
+52 silly dependencyIsSatisfied   '^1.3.4',
+52 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+53 verbose dependencyIsSatisfied babel-plugin-transform-decorators-legacy false
+54 silly hasDependencyInstalled test2 babel-preset-es2015
+55 silly dependencyIsSatisfied [ 'babel-preset-es2015',
+55 silly dependencyIsSatisfied   '^6.24.1',
+55 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+56 verbose dependencyIsSatisfied babel-preset-es2015 false
+57 silly hasDependencyInstalled test2 bluebird
+58 silly dependencyIsSatisfied [ 'bluebird',
+58 silly dependencyIsSatisfied   '^3.5.1',
+58 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+59 verbose dependencyIsSatisfied bluebird false
+60 silly hasDependencyInstalled test2 chalk
+61 silly dependencyIsSatisfied [ 'chalk',
+61 silly dependencyIsSatisfied   '^2.1.0',
+61 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+62 verbose dependencyIsSatisfied chalk false
+63 silly hasDependencyInstalled test2 chance
+64 silly dependencyIsSatisfied [ 'chance',
+64 silly dependencyIsSatisfied   '^1.0.10',
+64 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+65 verbose dependencyIsSatisfied chance false
+66 silly hasDependencyInstalled test2 cheerio
+67 silly dependencyIsSatisfied [ 'cheerio',
+67 silly dependencyIsSatisfied   '^1.0.0-rc.2',
+67 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+68 verbose dependencyIsSatisfied cheerio false
+69 silly hasDependencyInstalled test2 chromedriver
+70 silly dependencyIsSatisfied [ 'chromedriver',
+70 silly dependencyIsSatisfied   '^2.33.2',
+70 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+71 verbose dependencyIsSatisfied chromedriver false
+72 silly hasDependencyInstalled test2 commander
+73 silly dependencyIsSatisfied [ 'commander',
+73 silly dependencyIsSatisfied   '^2.11.0',
+73 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+74 verbose dependencyIsSatisfied commander false
+75 silly hasDependencyInstalled test2 dogwater
+76 silly dependencyIsSatisfied [ 'dogwater',
+76 silly dependencyIsSatisfied   '^2.3.0',
+76 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+77 verbose dependencyIsSatisfied dogwater false
+78 silly hasDependencyInstalled test2 eslint-config-google
+79 silly dependencyIsSatisfied [ 'eslint-config-google',
+79 silly dependencyIsSatisfied   '^0.9.1',
+79 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+80 verbose dependencyIsSatisfied eslint-config-google false
+81 silly hasDependencyInstalled test2 eslint-plugin-jest
+82 silly dependencyIsSatisfied [ 'eslint-plugin-jest',
+82 silly dependencyIsSatisfied   '^21.5.0',
+82 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+83 verbose dependencyIsSatisfied eslint-plugin-jest false
+84 silly hasDependencyInstalled test2 good
+85 silly dependencyIsSatisfied [ 'good', '^7.3.0', '/Users/finup/Documents/test2/node_modules' ]
+86 verbose dependencyIsSatisfied good false
+87 silly hasDependencyInstalled test2 grunt
+88 silly dependencyIsSatisfied [ 'grunt',
+88 silly dependencyIsSatisfied   '^1.0.1',
+88 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+89 verbose dependencyIsSatisfied grunt false
+90 silly hasDependencyInstalled test2 gulp
+91 silly dependencyIsSatisfied [ 'gulp', '^3.9.1', '/Users/finup/Documents/test2/node_modules' ]
+92 verbose dependencyIsSatisfied gulp false
+93 silly hasDependencyInstalled test2 hapi
+94 silly dependencyIsSatisfied [ 'hapi',
+94 silly dependencyIsSatisfied   '^17.1.1',
+94 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+95 verbose dependencyIsSatisfied hapi false
+96 silly hasDependencyInstalled undefined 'hapi'
+97 silly dependencyIsSatisfied [ 'hapi',
+97 silly dependencyIsSatisfied   '^17.2.0',
+97 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/inert/node_modules' ]
+98 verbose dependencyIsSatisfied hapi true
+99 silly hasDependencyInstalled test2 hoek
+100 silly dependencyIsSatisfied [ 'hoek', '^5.0.2', '/Users/finup/Documents/test2/node_modules' ]
+101 verbose dependencyIsSatisfied hoek false
+102 silly hasDependencyInstalled test2 htmlparser2
+103 silly dependencyIsSatisfied [ 'htmlparser2',
+103 silly dependencyIsSatisfied   '^3.9.2',
+103 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+104 verbose dependencyIsSatisfied htmlparser2 false
+105 silly hasDependencyInstalled test2 iconv
+106 silly dependencyIsSatisfied [ 'iconv',
+106 silly dependencyIsSatisfied   '^2.3.0',
+106 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+107 verbose dependencyIsSatisfied iconv false
+108 silly hasDependencyInstalled test2 iconv-lite
+109 silly dependencyIsSatisfied [ 'iconv-lite',
+109 silly dependencyIsSatisfied   '^0.4.19',
+109 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+110 verbose dependencyIsSatisfied iconv-lite false
+111 silly hasDependencyInstalled test2 inert
+112 silly dependencyIsSatisfied [ 'inert',
+112 silly dependencyIsSatisfied   '^5.0.1',
+112 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+113 verbose dependencyIsSatisfied inert false
+114 silly hasDependencyInstalled test2 inquirer
+115 silly dependencyIsSatisfied [ 'inquirer',
+115 silly dependencyIsSatisfied   '^3.3.0',
+115 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+116 verbose dependencyIsSatisfied inquirer false
+117 silly hasDependencyInstalled test2 jest
+118 silly dependencyIsSatisfied [ 'jest',
+118 silly dependencyIsSatisfied   '^20.0.4',
+118 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+119 verbose dependencyIsSatisfied jest false
+120 silly hasDependencyInstalled test2 joi
+121 silly dependencyIsSatisfied [ 'joi', '^11.1.1', '/Users/finup/Documents/test2/node_modules' ]
+122 verbose dependencyIsSatisfied joi false
+123 silly hasDependencyInstalled test2 lodash
+124 silly dependencyIsSatisfied [ 'lodash',
+124 silly dependencyIsSatisfied   '^4.17.4',
+124 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+125 verbose dependencyIsSatisfied lodash false
+126 silly hasDependencyInstalled test2 mkdirp
+127 silly dependencyIsSatisfied [ 'mkdirp',
+127 silly dependencyIsSatisfied   '^0.5.1',
+127 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+128 verbose dependencyIsSatisfied mkdirp false
+129 silly hasDependencyInstalled test2 mockjs
+130 silly dependencyIsSatisfied [ 'mockjs',
+130 silly dependencyIsSatisfied   '^1.0.1-beta3',
+130 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+131 verbose dependencyIsSatisfied mockjs false
+132 silly hasDependencyInstalled test2 mockserver-client
+133 silly dependencyIsSatisfied [ 'mockserver-client',
+133 silly dependencyIsSatisfied   '^1.0.16',
+133 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+134 verbose dependencyIsSatisfied mockserver-client false
+135 silly hasDependencyInstalled test2 mockserver-grunt
+136 silly dependencyIsSatisfied [ 'mockserver-grunt',
+136 silly dependencyIsSatisfied   '^1.0.42',
+136 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+137 verbose dependencyIsSatisfied mockserver-grunt false
+138 silly hasDependencyInstalled test2 moment
+139 silly dependencyIsSatisfied [ 'moment',
+139 silly dependencyIsSatisfied   '^2.18.1',
+139 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+140 verbose dependencyIsSatisfied moment false
+141 silly hasDependencyInstalled test2 mongoose
+142 silly dependencyIsSatisfied [ 'mongoose',
+142 silly dependencyIsSatisfied   '^4.13.6',
+142 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+143 verbose dependencyIsSatisfied mongoose false
+144 silly hasDependencyInstalled test2 mysql
+145 silly dependencyIsSatisfied [ 'mysql',
+145 silly dependencyIsSatisfied   '^2.15.0',
+145 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+146 verbose dependencyIsSatisfied mysql false
+147 silly hasDependencyInstalled test2 mysql2
+148 silly dependencyIsSatisfied [ 'mysql2',
+148 silly dependencyIsSatisfied   '^1.5.1',
+148 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+149 verbose dependencyIsSatisfied mysql2 false
+150 silly hasDependencyInstalled test2 nirvana-logger
+151 silly dependencyIsSatisfied [ 'nirvana-logger',
+151 silly dependencyIsSatisfied   '^2.2.4',
+151 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+152 verbose dependencyIsSatisfied nirvana-logger false
+153 silly hasDependencyInstalled test2 node-fetch
+154 silly dependencyIsSatisfied [ 'node-fetch',
+154 silly dependencyIsSatisfied   '^1.6.3',
+154 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+155 verbose dependencyIsSatisfied node-fetch false
+156 silly hasDependencyInstalled test2 node-xlsx
+157 silly dependencyIsSatisfied [ 'node-xlsx',
+157 silly dependencyIsSatisfied   '^0.11.0',
+157 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+158 verbose dependencyIsSatisfied node-xlsx false
+159 silly hasDependencyInstalled test2 nodemailer
+160 silly dependencyIsSatisfied [ 'nodemailer',
+160 silly dependencyIsSatisfied   '^4.0.1',
+160 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+161 verbose dependencyIsSatisfied nodemailer false
+162 silly hasDependencyInstalled test2 ramda
+163 silly dependencyIsSatisfied [ 'ramda',
+163 silly dependencyIsSatisfied   '^0.25.0',
+163 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+164 verbose dependencyIsSatisfied ramda false
+165 silly hasDependencyInstalled test2 request
+166 silly dependencyIsSatisfied [ 'request',
+166 silly dependencyIsSatisfied   '^2.83.0',
+166 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+167 verbose dependencyIsSatisfied request false
+168 silly hasDependencyInstalled test2 sails-memory
+169 silly dependencyIsSatisfied [ 'sails-memory',
+169 silly dependencyIsSatisfied   '^0.10.7',
+169 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+170 verbose dependencyIsSatisfied sails-memory false
+171 silly hasDependencyInstalled test2 selenium-webdriver
+172 silly dependencyIsSatisfied [ 'selenium-webdriver',
+172 silly dependencyIsSatisfied   '^3.6.0',
+172 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+173 verbose dependencyIsSatisfied selenium-webdriver false
+174 silly hasDependencyInstalled test2 seneca
+175 silly dependencyIsSatisfied [ 'seneca',
+175 silly dependencyIsSatisfied   '^3.3.0',
+175 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+176 verbose dependencyIsSatisfied seneca false
+177 silly hasDependencyInstalled test2 sequelize
+178 silly dependencyIsSatisfied [ 'sequelize',
+178 silly dependencyIsSatisfied   '^4.19.0',
+178 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+179 verbose dependencyIsSatisfied sequelize false
+180 silly hasDependencyInstalled test2 sequelize-auto
+181 silly dependencyIsSatisfied [ 'sequelize-auto',
+181 silly dependencyIsSatisfied   '^0.4.29',
+181 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+182 verbose dependencyIsSatisfied sequelize-auto false
+183 silly hasDependencyInstalled test2 waterline
+184 silly dependencyIsSatisfied [ 'waterline',
+184 silly dependencyIsSatisfied   '^0.13.1-9',
+184 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+185 verbose dependencyIsSatisfied waterline false
+186 silly hasDependencyInstalled test2 xinmingliang
+187 silly dependencyIsSatisfied [ 'xinmingliang',
+187 silly dependencyIsSatisfied   '^1.0.0',
+187 silly dependencyIsSatisfied   '/Users/finup/Documents/test2/node_modules' ]
+188 verbose dependencyIsSatisfied xinmingliang false
+189 silly root dependencies []
+190 silly leaf dependencies {
+190 silly leaf dependencies   "test2": [
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "del@^3.0.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp-babel@^7.0.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp-concat@^2.6.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp-jshint@^2.0.4",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp-minify-css@^1.2.4",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp-rename@^1.2.2",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp-uglify@^3.0.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "lerna@^2.10.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "@nirvana/nirvana-develop-openapi@0.0.279",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "babel-cli@^6.24.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "babel-eslint@^8.0.3",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "babel-plugin-transform-decorators@^6.24.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "babel-plugin-transform-decorators-legacy@^1.3.4",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "babel-preset-es2015@^6.24.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "bluebird@^3.5.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "chalk@^2.1.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "chance@^1.0.10",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "cheerio@^1.0.0-rc.2",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "chromedriver@^2.33.2",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "commander@^2.11.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "dogwater@^2.3.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "eslint-config-google@^0.9.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "eslint-plugin-jest@^21.5.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "good@^7.3.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "grunt@^1.0.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "gulp@^3.9.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "hapi@^17.1.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "hoek@^5.0.2",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "htmlparser2@^3.9.2",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "iconv@^2.3.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "iconv-lite@^0.4.19",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "inert@^5.0.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "inquirer@^3.3.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "jest@^20.0.4",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "joi@^11.1.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "lodash@^4.17.4",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mkdirp@^0.5.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mockjs@^1.0.1-beta3",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mockserver-client@^1.0.16",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mockserver-grunt@^1.0.42",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "moment@^2.18.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mongoose@^4.13.6",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mysql@^2.15.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "mysql2@^1.5.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "nirvana-logger@^2.2.4",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "node-fetch@^1.6.3",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "node-xlsx@^0.11.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "nodemailer@^4.0.1",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "ramda@^0.25.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "request@^2.83.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "sails-memory@^0.10.7",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "selenium-webdriver@^3.6.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "seneca@^3.3.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "sequelize@^4.19.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "sequelize-auto@^0.4.29",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "waterline@^0.13.1-9",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     },
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "xinmingliang@^1.0.0",
+190 silly leaf dependencies       "isSatisfied": false
+190 silly leaf dependencies     }
+190 silly leaf dependencies   ],
+190 silly leaf dependencies   "undefined": [
+190 silly leaf dependencies     {
+190 silly leaf dependencies       "dependency": "hapi@^17.2.0",
+190 silly leaf dependencies       "isSatisfied": true
+190 silly leaf dependencies     }
+190 silly leaf dependencies   ]
+190 silly leaf dependencies }
+191 info Installing external dependencies
+192 verbose actions 1 actions, concurrency 4
+193 silly installInDir test2 [ 'del@^3.0.0',
+193 silly installInDir   'gulp-babel@^7.0.0',
+193 silly installInDir   'gulp-concat@^2.6.1',
+193 silly installInDir   'gulp-jshint@^2.0.4',
+193 silly installInDir   'gulp-minify-css@^1.2.4',
+193 silly installInDir   'gulp-rename@^1.2.2',
+193 silly installInDir   'gulp-uglify@^3.0.0',
+193 silly installInDir   'lerna@^2.10.1',
+193 silly installInDir   '@nirvana/nirvana-develop-openapi@0.0.279',
+193 silly installInDir   'babel-cli@^6.24.1',
+193 silly installInDir   'babel-eslint@^8.0.3',
+193 silly installInDir   'babel-plugin-transform-decorators@^6.24.1',
+193 silly installInDir   'babel-plugin-transform-decorators-legacy@^1.3.4',
+193 silly installInDir   'babel-preset-es2015@^6.24.1',
+193 silly installInDir   'bluebird@^3.5.1',
+193 silly installInDir   'chalk@^2.1.0',
+193 silly installInDir   'chance@^1.0.10',
+193 silly installInDir   'cheerio@^1.0.0-rc.2',
+193 silly installInDir   'chromedriver@^2.33.2',
+193 silly installInDir   'commander@^2.11.0',
+193 silly installInDir   'dogwater@^2.3.0',
+193 silly installInDir   'eslint-config-google@^0.9.1',
+193 silly installInDir   'eslint-plugin-jest@^21.5.0',
+193 silly installInDir   'good@^7.3.0',
+193 silly installInDir   'grunt@^1.0.1',
+193 silly installInDir   'gulp@^3.9.1',
+193 silly installInDir   'hapi@^17.1.1',
+193 silly installInDir   'hoek@^5.0.2',
+193 silly installInDir   'htmlparser2@^3.9.2',
+193 silly installInDir   'iconv@^2.3.0',
+193 silly installInDir   'iconv-lite@^0.4.19',
+193 silly installInDir   'inert@^5.0.1',
+193 silly installInDir   'inquirer@^3.3.0',
+193 silly installInDir   'jest@^20.0.4',
+193 silly installInDir   'joi@^11.1.1',
+193 silly installInDir   'lodash@^4.17.4',
+193 silly installInDir   'mkdirp@^0.5.1',
+193 silly installInDir   'mockjs@^1.0.1-beta3',
+193 silly installInDir   'mockserver-client@^1.0.16',
+193 silly installInDir   'mockserver-grunt@^1.0.42',
+193 silly installInDir   'moment@^2.18.1',
+193 silly installInDir   'mongoose@^4.13.6',
+193 silly installInDir   'mysql@^2.15.0',
+193 silly installInDir   'mysql2@^1.5.1',
+193 silly installInDir   'nirvana-logger@^2.2.4',
+193 silly installInDir   'node-fetch@^1.6.3',
+193 silly installInDir   'node-xlsx@^0.11.0',
+193 silly installInDir   'nodemailer@^4.0.1',
+193 silly installInDir   'ramda@^0.25.0',
+193 silly installInDir   'request@^2.83.0',
+193 silly installInDir   'sails-memory@^0.10.7',
+193 silly installInDir   'selenium-webdriver@^3.6.0',
+193 silly installInDir   'seneca@^3.3.0',
+193 silly installInDir   'sequelize@^4.19.0',
+193 silly installInDir   'sequelize-auto@^0.4.29',
+193 silly installInDir   'waterline@^0.13.1-9',
+193 silly installInDir   'xinmingliang@^1.0.0' ]
+194 silly installInDir backup /Users/finup/Documents/test2/package.json
+195 silly rename [ '/Users/finup/Documents/test2/package.json',
+195 silly rename   '/Users/finup/Documents/test2/package.json.lerna_backup' ]
+196 silly installInDir writing tempJson { dependencies:
+196 silly installInDir    { del: '^3.0.0',
+196 silly installInDir      'gulp-babel': '^7.0.0',
+196 silly installInDir      'gulp-concat': '^2.6.1',
+196 silly installInDir      'gulp-jshint': '^2.0.4',
+196 silly installInDir      'gulp-minify-css': '^1.2.4',
+196 silly installInDir      'gulp-rename': '^1.2.2',
+196 silly installInDir      'gulp-uglify': '^3.0.0',
+196 silly installInDir      lerna: '^2.10.1',
+196 silly installInDir      '@nirvana/nirvana-develop-openapi': '0.0.279',
+196 silly installInDir      'babel-cli': '^6.24.1',
+196 silly installInDir      'babel-eslint': '^8.0.3',
+196 silly installInDir      'babel-plugin-transform-decorators': '^6.24.1',
+196 silly installInDir      'babel-plugin-transform-decorators-legacy': '^1.3.4',
+196 silly installInDir      'babel-preset-es2015': '^6.24.1',
+196 silly installInDir      bluebird: '^3.5.1',
+196 silly installInDir      chalk: '^2.1.0',
+196 silly installInDir      chance: '^1.0.10',
+196 silly installInDir      cheerio: '^1.0.0-rc.2',
+196 silly installInDir      chromedriver: '^2.33.2',
+196 silly installInDir      commander: '^2.11.0',
+196 silly installInDir      dogwater: '^2.3.0',
+196 silly installInDir      'eslint-config-google': '^0.9.1',
+196 silly installInDir      'eslint-plugin-jest': '^21.5.0',
+196 silly installInDir      good: '^7.3.0',
+196 silly installInDir      grunt: '^1.0.1',
+196 silly installInDir      gulp: '^3.9.1',
+196 silly installInDir      hapi: '^17.1.1',
+196 silly installInDir      hoek: '^5.0.2',
+196 silly installInDir      htmlparser2: '^3.9.2',
+196 silly installInDir      iconv: '^2.3.0',
+196 silly installInDir      'iconv-lite': '^0.4.19',
+196 silly installInDir      inert: '^5.0.1',
+196 silly installInDir      inquirer: '^3.3.0',
+196 silly installInDir      jest: '^20.0.4',
+196 silly installInDir      joi: '^11.1.1',
+196 silly installInDir      lodash: '^4.17.4',
+196 silly installInDir      mkdirp: '^0.5.1',
+196 silly installInDir      mockjs: '^1.0.1-beta3',
+196 silly installInDir      'mockserver-client': '^1.0.16',
+196 silly installInDir      'mockserver-grunt': '^1.0.42',
+196 silly installInDir      moment: '^2.18.1',
+196 silly installInDir      mongoose: '^4.13.6',
+196 silly installInDir      mysql: '^2.15.0',
+196 silly installInDir      mysql2: '^1.5.1',
+196 silly installInDir      'nirvana-logger': '^2.2.4',
+196 silly installInDir      'node-fetch': '^1.6.3',
+196 silly installInDir      'node-xlsx': '^0.11.0',
+196 silly installInDir      nodemailer: '^4.0.1',
+196 silly installInDir      ramda: '^0.25.0',
+196 silly installInDir      request: '^2.83.0',
+196 silly installInDir      'sails-memory': '^0.10.7',
+196 silly installInDir      'selenium-webdriver': '^3.6.0',
+196 silly installInDir      seneca: '^3.3.0',
+196 silly installInDir      sequelize: '^4.19.0',
+196 silly installInDir      'sequelize-auto': '^0.4.29',
+196 silly installInDir      waterline: '^0.13.1-9',
+196 silly installInDir      xinmingliang: '^1.0.0' } }
+197 silly getExecOpts { cwd: '/Users/finup/Documents/test2' }
+198 silly installInDir [ 'npm', [ 'install' ] ]
+199 silly installInDir cleanup /Users/finup/Documents/test2/package.json
+200 silly renameSync [ '/Users/finup/Documents/test2/package.json.lerna_backup',
+200 silly renameSync   '/Users/finup/Documents/test2/package.json' ]
+201 verbose installed leaf test2
+202 error execute callback with error
+203 error Error: Command failed: npm install
+203 error npm WARN deprecated babel-preset-es2015@6.24.1: ????  Thanks for using Babel: we recommend using babel-preset-env now: please read babeljs.io/env to update!
+203 error npm WARN deprecated mockserver-grunt@1.0.44: mockserver-node has now replaced mockserver-grunt
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-jRTXe1LlNwmEPA/d1EExroYqmv0= integrity checksum failed when using sha1: wanted sha1-jRTXe1LlNwmEPA/d1EExroYqmv0= but got sha1-V6mPRkghMau5AwJLQqRxDWocmlY=. (6495 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-f0FoVLpIeFmYKlUqCNx/LCTdASc= integrity checksum failed when using sha1: wanted sha1-f0FoVLpIeFmYKlUqCNx/LCTdASc= but got sha1-8HZ7RPrv71wLOcVviyMbA8hkmqg=. (2709 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-SOOFXzArx8bnAqE7Tt+6bvs0Jsg= integrity checksum failed when using sha1: wanted sha1-SOOFXzArx8bnAqE7Tt+6bvs0Jsg= but got sha1-jWafe3ZoZIHOC5DlCjeoBpnL4Ks=. (2348 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-BtQVP2XciwnEP2I4puIrv+vcO3E= integrity checksum failed when using sha1: wanted sha1-BtQVP2XciwnEP2I4puIrv+vcO3E= but got sha1-ZuVBK1LlB+p7+u+DP11uJdvNukw=. (1494 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-f0FoVLpIeFmYKlUqCNx/LCTdASc= integrity checksum failed when using sha1: wanted sha1-f0FoVLpIeFmYKlUqCNx/LCTdASc= but got sha1-8HZ7RPrv71wLOcVviyMbA8hkmqg=. (2709 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-+0R3ePwJw6RNjeGvfFA5uiKQ/Hk= integrity checksum failed when using sha1: wanted sha1-+0R3ePwJw6RNjeGvfFA5uiKQ/Hk= but got sha1-aRI11Gho0uKnbIMTNpi++mqIUFc=. (2939 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error events.js:183
+203 error       throw er; // Unhandled 'error' event
+203 error       ^
+203 error
+203 error Error: sha1-BtQVP2XciwnEP2I4puIrv+vcO3E= integrity checksum failed when using sha1: wanted sha1-BtQVP2XciwnEP2I4puIrv+vcO3E= but got sha1-ZuVBK1LlB+p7+u+DP11uJdvNukw=. (1494 bytes)
+203 error     at Transform.on (/usr/local/lib/node_modules/npm/node_modules/ssri/index.js:275:19)
+203 error     at emitNone (events.js:111:20)
+203 error     at Transform.emit (events.js:208:7)
+203 error     at endReadableNT (_stream_readable.js:1064:12)
+203 error     at _combinedTickCallback (internal/process/next_tick.js:138:11)
+203 error     at process._tickCallback (internal/process/next_tick.js:180:9)
+203 error npm WARN test2 No description
+203 error npm WARN test2 No repository field.
+203 error npm WARN test2 No license field.
+203 error
+203 error npm ERR! cancel after 1 retries!
+203 error
+203 error npm ERR! A complete log of this run can be found in:
+203 error npm ERR!     /Users/finup/.npm/_logs/2018-04-13T06_37_38_934Z-debug.log
+203 error
+203 error     at Promise.all.then.arr (/usr/local/lib/node_modules/lerna/node_modules/_execa@0.8.0@execa/index.js:236:11)
+203 error     at <anonymous>

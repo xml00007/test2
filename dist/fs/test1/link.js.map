@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../fs/test1/link.js"],"names":["aaaa","console","log"],"mappings":";;AAAA,SAASA,IAAT,GAAgB;AACdC,UAAQC,GAAR,CAAY,KAAZ;AACA,SAAO,IAAP;AACD","file":"link.js","sourcesContent":["function aaaa() {\n  console.log(22222);\n  return 1111;\n}\n"]}

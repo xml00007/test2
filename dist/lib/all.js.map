@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../lib/all.js"],"names":["a","cds","data","console","log"],"mappings":"AAAA;;AAEA,IAAIA,IAAI,CAAR;AACA,SAASC,GAAT,CAAaC,IAAb,EAAmB;AACfC,YAAQC,GAAR,CAAYF,IAAZ;AACH","file":"all.js","sourcesContent":["\"use strict\";\n\nvar a = 1;\nfunction cds(data) {\n    console.log(data);\n}"]}

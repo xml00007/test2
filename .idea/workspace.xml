@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf828eaa-dc04-447e-a74c-178a16e9ff5a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diff/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findDiff.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataAnalysis/findDiff.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="281" column="36" selection-start-line="281" selection-start-column="36" selection-end-line="281" selection-end-column="36" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#137#12469#0" />
+                <element signature="e#3803#7919#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Promise/test1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Promise/test2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lerna.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lerna.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".npmrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.npmrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Promise/test3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>module.exports</find>
+      <find>export</find>
+      <find>sequelize-auto</find>
+      <find>sequelize-zuto</find>
+      <find>iconv.convert</find>
+      <find>passwor</find>
+      <find>123456</find>
+      <find>min.js</find>
+      <find>waterline</find>
+      <find>conn</find>
+      <find>eslint</find>
+      <find>retries</find>
+      <find>天</find>
+      <find>tar</find>
+      <find>fs</find>
+      <find>Model</find>
+      <find>xlsx</find>
+      <find>readtom</find>
+      <find>writeXls</find>
+      <find>findall</find>
+      <find>like</find>
+      <find>line</find>
+      <find>var</find>
+      <find>nirvana-sdk</find>
+      <find>nirvana</find>
+      <find>nirvana-logger</find>
+      <find>:</find>
+      <find>'</find>
+      <find>'large_equip_desc':'(\S\s).*?``</find>
+      <find>type</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'NumberInt\('\d+'\)'</replace>
+      <replace>'NumberLong'</replace>
+      <replace>'NumberInt'</replace>
+      <replace>let</replace>
+      <replace>:</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/dist</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/selenium/find.js" />
+        <option value="$PROJECT_DIR$/xunhuan.js" />
+        <option value="$PROJECT_DIR$/gulp/test1.js" />
+        <option value="$PROJECT_DIR$/gulp/yasuo.js" />
+        <option value="$PROJECT_DIR$/lib/bbbb.js" />
+        <option value="$PROJECT_DIR$/lib/aaaaa.js" />
+        <option value="$PROJECT_DIR$/gulp/gulpfile.js" />
+        <option value="$PROJECT_DIR$/node_modules/hapi/lib/index.js" />
+        <option value="$PROJECT_DIR$/Hapi/test3.js" />
+        <option value="$PROJECT_DIR$/Hapi/test1.js" />
+        <option value="$PROJECT_DIR$/Hapi/test2.js" />
+        <option value="$PROJECT_DIR$/Hapi/public/hello.html" />
+        <option value="$PROJECT_DIR$/Hapi/test4.js" />
+        <option value="$PROJECT_DIR$/Hapi/plugins.js" />
+        <option value="$PROJECT_DIR$/Hapi/controller/index.js" />
+        <option value="$PROJECT_DIR$/Hapi/server.js" />
+        <option value="$PROJECT_DIR$/Hapi/route.js" />
+        <option value="$PROJECT_DIR$/Hapi/controller/hello.js" />
+        <option value="$PROJECT_DIR$/cheerio/test1.js" />
+        <option value="$PROJECT_DIR$/sequelize/Models/index.js" />
+        <option value="$PROJECT_DIR$/restClient/index.js" />
+        <option value="$PROJECT_DIR$/sequelize/dbConnect.js" />
+        <option value="$PROJECT_DIR$/selenium/22.html" />
+        <option value="$PROJECT_DIR$/selenium/mofengwoFind.js" />
+        <option value="$PROJECT_DIR$/sequelize/index.js" />
+        <option value="$PROJECT_DIR$/excel/index.js" />
+        <option value="$PROJECT_DIR$/excel/exportToExcel.js" />
+        <option value="$PROJECT_DIR$/selenium/mofengwo.js" />
+        <option value="$PROJECT_DIR$/selenium/222.html" />
+        <option value="$PROJECT_DIR$/statics/index.html" />
+        <option value="$PROJECT_DIR$/statics/hello.js" />
+        <option value="$PROJECT_DIR$/inert/test1.js" />
+        <option value="$PROJECT_DIR$/test2.js" />
+        <option value="$PROJECT_DIR$/hoek/reachTemplate.js" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/hoek/applyToDefaults.js" />
+        <option value="$PROJECT_DIR$/hoek/clone.js" />
+        <option value="$PROJECT_DIR$/hoek/cloneWithShallow.js" />
+        <option value="$PROJECT_DIR$/hoek/merge.js" />
+        <option value="$PROJECT_DIR$/hoek/applyToDefaultsWithShallow.js" />
+        <option value="$PROJECT_DIR$/hoek/contain.js" />
+        <option value="$PROJECT_DIR$/hoek/flatten.js" />
+        <option value="$PROJECT_DIR$/hoek/reach.js" />
+        <option value="$PROJECT_DIR$/hoek/shallow.js" />
+        <option value="$PROJECT_DIR$/test3.js" />
+        <option value="$PROJECT_DIR$/clster.js" />
+        <option value="$PROJECT_DIR$/cluster.js" />
+        <option value="$PROJECT_DIR$/dataAnalysis/findDiff.js" />
+        <option value="$PROJECT_DIR$/Promise/test2.js" />
+        <option value="$PROJECT_DIR$/lerna.json" />
+        <option value="$PROJECT_DIR$/.npmrc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/dist/Seneca/node_modules" />
+    <handled-path value="$PROJECT_DIR$/dist/dist/Seneca/node_modules" />
+    <handled-path value="$PROJECT_DIR$/fs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/inert/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="7.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sequelize/Models" />
+      <recent name="$PROJECT_DIR$/sequelize" />
+      <recent name="$PROJECT_DIR$/yanling" />
+      <recent name="$PROJECT_DIR$/Diff/Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gulp" />
+      <recent name="$PROJECT_DIR$/sequelize/Models/mysql" />
+      <recent name="$PROJECT_DIR$/Diff" />
+      <recent name="$PROJECT_DIR$/jest/_tests_" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.array.js">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" />
+    <configuration name="array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" path-to-js-file="array.js" working-dir="$PROJECT_DIR$/Joi" />
+    <configuration name="assert.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" path-to-js-file="assert.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="readFile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" path-to-js-file="readFile.js" working-dir="$PROJECT_DIR$/fs" />
+    <configuration name="test1.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" path-to-js-file="test1.js" working-dir="$PROJECT_DIR$/Decorator" />
+    <configuration name="test3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" path-to-js-file="test3.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="xunhuan.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/lib/node_modules/babel-cli/bin/babel-node.js" path-to-js-file="xunhuan.js" working-dir="$PROJECT_DIR$" />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.test1.js" />
+      <item itemvalue="Node.js.test3.js" />
+      <item itemvalue="Node.js.readFile.js" />
+      <item itemvalue="Node.js.assert.js" />
+      <item itemvalue="Node.js.xunhuan.js" />
+      <item itemvalue="Node.js.array.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.array.js" />
+        <item itemvalue="Node.js.xunhuan.js" />
+        <item itemvalue="Node.js.assert.js" />
+        <item itemvalue="Node.js.readFile.js" />
+        <item itemvalue="Node.js.test3.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf828eaa-dc04-447e-a74c-178a16e9ff5a" name="Default" comment="" />
+      <created>1494773536108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494773536108</updated>
+      <workItem from="1494773537260" duration="927000" />
+      <workItem from="1494774614373" duration="1846000" />
+      <workItem from="1494814475439" duration="1477000" />
+      <workItem from="1494834589540" duration="620000" />
+      <workItem from="1494842672074" duration="16000" />
+      <workItem from="1494842713240" duration="363000" />
+      <workItem from="1495338476517" duration="5136000" />
+      <workItem from="1495353530296" duration="984000" />
+      <workItem from="1495418275676" duration="172000" />
+      <workItem from="1495621349700" duration="1978000" />
+      <workItem from="1495678078205" duration="740000" />
+      <workItem from="1495710401175" duration="999000" />
+      <workItem from="1495713300521" duration="143000" />
+      <workItem from="1495713523253" duration="3058000" />
+      <workItem from="1495716928503" duration="325000" />
+      <workItem from="1495766712270" duration="54000" />
+      <workItem from="1496203227634" duration="1168000" />
+      <workItem from="1497321077081" duration="3588000" />
+      <workItem from="1497406094681" duration="154000" />
+      <workItem from="1497406280184" duration="1588000" />
+      <workItem from="1497492879822" duration="1220000" />
+      <workItem from="1497579500229" duration="599000" />
+      <workItem from="1497665707902" duration="1190000" />
+      <workItem from="1497679589031" duration="3038000" />
+      <workItem from="1497837912267" duration="249000" />
+      <workItem from="1498377302980" duration="1747000" />
+      <workItem from="1498442794017" duration="656000" />
+      <workItem from="1498529005321" duration="547000" />
+      <workItem from="1498615712695" duration="586000" />
+      <workItem from="1498638760215" duration="598000" />
+      <workItem from="1498662244011" duration="5000" />
+      <workItem from="1498702095544" duration="543000" />
+      <workItem from="1498707669986" duration="1745000" />
+      <workItem from="1498789091908" duration="196000" />
+      <workItem from="1499047620951" duration="2200000" />
+      <workItem from="1499220587715" duration="5284000" />
+      <workItem from="1499651837490" duration="167000" />
+      <workItem from="1499652077704" duration="358000" />
+      <workItem from="1499739295329" duration="2052000" />
+      <workItem from="1499825552072" duration="2902000" />
+      <workItem from="1500002413070" duration="2336000" />
+      <workItem from="1500891901150" duration="779000" />
+      <workItem from="1500948772606" duration="4131000" />
+      <workItem from="1501034897956" duration="7608000" />
+      <workItem from="1501121945420" duration="1678000" />
+      <workItem from="1501126510452" duration="153000" />
+      <workItem from="1501126691887" duration="9147000" />
+      <workItem from="1501208844659" duration="7126000" />
+      <workItem from="1501379650146" duration="80000" />
+      <workItem from="1501380053977" duration="9177000" />
+      <workItem from="1501467135041" duration="2324000" />
+      <workItem from="1501472313522" duration="5776000" />
+      <workItem from="1501553098664" duration="1995000" />
+      <workItem from="1501639933011" duration="1256000" />
+      <workItem from="1501730489431" duration="4246000" />
+      <workItem from="1501813434719" duration="1700000" />
+      <workItem from="1501832640603" duration="1863000" />
+      <workItem from="1501947257624" duration="25000" />
+      <workItem from="1501947302834" duration="209000" />
+      <workItem from="1501984532375" duration="7274000" />
+      <workItem from="1502071726883" duration="1498000" />
+      <workItem from="1502158906247" duration="3005000" />
+      <workItem from="1502197557409" duration="37000" />
+      <workItem from="1502246775642" duration="832000" />
+      <workItem from="1502373388389" duration="5000" />
+      <workItem from="1502422802142" duration="1704000" />
+      <workItem from="1502425394691" duration="2438000" />
+      <workItem from="1502762214307" duration="433000" />
+      <workItem from="1502849477191" duration="411000" />
+      <workItem from="1502935162132" duration="1931000" />
+      <workItem from="1503021481528" duration="2249000" />
+      <workItem from="1503197912739" duration="1348000" />
+      <workItem from="1503281356141" duration="1794000" />
+      <workItem from="1503366896328" duration="599000" />
+      <workItem from="1503575157971" duration="1014000" />
+      <workItem from="1503627682902" duration="1291000" />
+      <workItem from="1503804793924" duration="83000" />
+      <workItem from="1503805549761" duration="599000" />
+      <workItem from="1504239641196" duration="3736000" />
+      <workItem from="1504270923034" duration="2863000" />
+      <workItem from="1504538664164" duration="1008000" />
+      <workItem from="1504577599725" duration="3770000" />
+      <workItem from="1504664759076" duration="2477000" />
+      <workItem from="1504752147431" duration="571000" />
+      <workItem from="1504752904703" duration="2615000" />
+      <workItem from="1504792040026" duration="27000" />
+      <workItem from="1505203987061" duration="1997000" />
+      <workItem from="1505357550677" duration="20621000" />
+      <workItem from="1505443966009" duration="8317000" />
+      <workItem from="1505467804225" duration="4885000" />
+      <workItem from="1505707326640" duration="7465000" />
+      <workItem from="1505803692035" duration="13707000" />
+      <workItem from="1506307854891" duration="8801000" />
+      <workItem from="1506391702842" duration="7005000" />
+      <workItem from="1506570735557" duration="3479000" />
+      <workItem from="1506673041136" duration="2382000" />
+      <workItem from="1506737693516" duration="3748000" />
+      <workItem from="1506778164361" duration="411000" />
+      <workItem from="1507047953690" duration="1110000" />
+      <workItem from="1507515187284" duration="1919000" />
+      <workItem from="1507626907075" duration="1276000" />
+      <workItem from="1508383062597" duration="3544000" />
+      <workItem from="1508468959560" duration="1793000" />
+      <workItem from="1508685695434" duration="203000" />
+      <workItem from="1508754178060" duration="649000" />
+      <workItem from="1509155655352" duration="4169000" />
+      <workItem from="1509426379673" duration="1150000" />
+      <workItem from="1509514414468" duration="1786000" />
+      <workItem from="1509676582507" duration="1005000" />
+      <workItem from="1510541532084" duration="240000" />
+      <workItem from="1511334374965" duration="1729000" />
+      <workItem from="1511513615800" duration="2253000" />
+      <workItem from="1511856781119" duration="2397000" />
+      <workItem from="1511926748160" duration="2075000" />
+      <workItem from="1512117866745" duration="1180000" />
+      <workItem from="1512298203228" duration="8923000" />
+      <workItem from="1512353539141" duration="1776000" />
+      <workItem from="1512383618821" duration="2933000" />
+      <workItem from="1512447966058" duration="4856000" />
+      <workItem from="1512465905714" duration="657000" />
+      <workItem from="1512466704395" duration="1239000" />
+      <workItem from="1512468743732" duration="4070000" />
+      <workItem from="1512534357307" duration="7346000" />
+      <workItem from="1512733118614" duration="449000" />
+      <workItem from="1512978779923" duration="2957000" />
+      <workItem from="1513046320550" duration="1481000" />
+      <workItem from="1513153254365" duration="251000" />
+      <workItem from="1513153512145" duration="2467000" />
+      <workItem from="1513233158617" duration="334000" />
+      <workItem from="1513237584894" duration="3000" />
+      <workItem from="1513237611564" duration="75000" />
+      <workItem from="1513238026545" duration="28000" />
+      <workItem from="1513245919049" duration="49000" />
+      <workItem from="1513246079560" duration="161000" />
+      <workItem from="1513247837806" duration="3000" />
+      <workItem from="1513247918917" duration="10000" />
+      <workItem from="1513248587190" duration="1851000" />
+      <workItem from="1513252517900" duration="33000" />
+      <workItem from="1513253181733" duration="403000" />
+      <workItem from="1513330843782" duration="1443000" />
+      <workItem from="1513579998773" duration="3133000" />
+      <workItem from="1513585481777" duration="5821000" />
+      <workItem from="1513650169222" duration="115000" />
+      <workItem from="1513650331236" duration="302000" />
+      <workItem from="1513650649110" duration="1663000" />
+      <workItem from="1513655624426" duration="186000" />
+      <workItem from="1513656125702" duration="6115000" />
+      <workItem from="1513736472292" duration="3000" />
+      <workItem from="1513736655803" duration="3797000" />
+      <workItem from="1513746290574" duration="128000" />
+      <workItem from="1513746424763" duration="29000" />
+      <workItem from="1513746458432" duration="45000" />
+      <workItem from="1513746507473" duration="6854000" />
+      <workItem from="1513909940537" duration="3000" />
+      <workItem from="1513909966185" duration="14221000" />
+      <workItem from="1513930625367" duration="774000" />
+      <workItem from="1513931570745" duration="6986000" />
+      <workItem from="1513992546549" duration="6679000" />
+      <workItem from="1514001149527" duration="1000" />
+      <workItem from="1514001155021" duration="771000" />
+      <workItem from="1514002804962" duration="27417000" />
+      <workItem from="1514168450109" duration="3069000" />
+      <workItem from="1514354804761" duration="5756000" />
+      <workItem from="1514885541366" duration="2048000" />
+      <workItem from="1514945536359" duration="131000" />
+      <workItem from="1515377068913" duration="3616000" />
+      <workItem from="1515400746930" duration="1138000" />
+      <workItem from="1516159860250" duration="1664000" />
+      <workItem from="1516241550356" duration="157000" />
+      <workItem from="1516328993253" duration="216000" />
+      <workItem from="1516334286221" duration="235000" />
+      <workItem from="1516338679069" duration="2652000" />
+      <workItem from="1516674014795" duration="207000" />
+      <workItem from="1516687218354" duration="1420000" />
+      <workItem from="1516857464184" duration="750000" />
+      <workItem from="1517372760016" duration="1628000" />
+      <workItem from="1517997799390" duration="11000" />
+      <workItem from="1519700443995" duration="630000" />
+      <workItem from="1520848825187" duration="5415000" />
+      <workItem from="1521295669600" duration="1515000" />
+      <workItem from="1523601170152" duration="599000" />
+      <workItem from="1523678444120" duration="247000" />
+      <workItem from="1523683339743" duration="11000" />
+      <workItem from="1523691424091" duration="1967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="adds_1_+_2_to_equal_3 - 2017.07.06 at 18h 20m 10s.xml">
+      <configuration name="adds 1 + 2 to equal 3" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3_(1) - 2017.07.06 at 18h 21m 01s.xml">
+      <configuration name="adds 1 + 2 to equal 3 (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3_(1) - 2017.07.06 at 18h 21m 18s.xml">
+      <configuration name="adds 1 + 2 to equal 3 (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3_(2) - 2017.07.06 at 18h 22m 20s.xml">
+      <configuration name="adds 1 + 2 to equal 3 (2)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3_(2) - 2017.07.06 at 18h 27m 03s.xml">
+      <configuration name="adds 1 + 2 to equal 3 (2)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3_(2) - 2017.07.11 at 20h 44m 43s.xml">
+      <configuration name="adds 1 + 2 to equal 3 (2)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="433658000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4906542" visible="true" weight="0.22198732" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32711443" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2693267" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39925373" />
+      <window_info id="Favorites" order="2" sideWeight="0.50934577" side_tool="true" weight="0.24947146" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32711443" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4906542" visible="true" weight="0.18463707" />
+      <window_info id="Structure" order="1" weight="0.24947146" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329602" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39925373" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31343284" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.50934577" side_tool="true" weight="0.24947146" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/mockjs/test/test.mock.mock.js</url>
+          <line>39</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/creditOld.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/creditOld.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/bianliangOld.js</url>
+          <line>72</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/Data/wacaiCreditNew.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/Data/kaniu_credit_all.js</url>
+          <line>63</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/Data/applistAndHistory_new.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/Data/applistAndHistory_old.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Diff/Data/applistAndHistory_old.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/linux_doc/index.js</url>
+          <line>85</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/selenium/mofengwoFind.js</url>
+          <line>75</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Diff/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/findDiff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="281" column="36" selection-start-line="281" selection-start-column="36" selection-end-line="281" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#137#12469#0" />
+            <element signature="e#3803#7919#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lerna.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diff/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/findDiff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="281" column="36" selection-start-line="281" selection-start-column="36" selection-end-line="281" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#137#12469#0" />
+            <element signature="e#3803#7919#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lerna.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/yanling/readToMysql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excel/exportToExcel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diff/Data/getType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sequelize/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/inert/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/statics/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/222.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/mofengwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="121" column="60" selection-start-line="121" selection-start-column="56" selection-end-line="121" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inert/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/mofengwoFind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/eslint-config-google/index.js" />
+    <entry file="file://$PROJECT_DIR$/hoek/reachTemplate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/applyToDefaults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/clone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/cloneWithShallow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/merge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/applyToDefaultsWithShallow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/contain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/flatten.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/reach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="142" column="49" selection-start-line="142" selection-start-column="49" selection-end-line="142" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/canvas/219.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoek/shallow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diff/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/findDiff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="281" column="36" selection-start-line="281" selection-start-column="36" selection-end-line="281" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#137#12469#0" />
+            <element signature="e#3803#7919#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lerna.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

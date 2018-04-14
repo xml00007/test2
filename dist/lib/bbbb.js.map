@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../lib/bbbb.js"],"names":["cds","data","console","log"],"mappings":";;AAAA,SAASA,GAAT,CAAaC,IAAb,EAAmB;AACfC,YAAQC,GAAR,CAAYF,IAAZ;AACH","file":"bbbb.js","sourcesContent":["function cds(data) {\n    console.log(data)\n}"]}
