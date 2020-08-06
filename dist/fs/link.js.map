@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../fs/link.js"],"names":["fs","require","symlinkSync"],"mappings":";;AAAA,IAAMA,KAAKC,QAAQ,IAAR,CAAX;AACAD,GAAGE,WAAH,CAAe,qCAAf,EAAsD,SAAtD,EAAiE,KAAjE","file":"link.js","sourcesContent":["const fs = require('fs');\nfs.symlinkSync('/Users/jinke/WebstormProjects/test1', './test1', 'dir');"]}

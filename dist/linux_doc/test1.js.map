@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../linux_doc/test1.js"],"names":["obj","console","log","信"],"mappings":";;AAAA,IAAMA,MAAM;AACV,OAAK;AADK,CAAZ;;AAIAC,QAAQC,GAAR,CAAYF,IAAIG,CAAhB","file":"test1.js","sourcesContent":["const obj = {\n  '信': 1111,\n};\n\nconsole.log(obj.信);"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../jest/sum.js"],"names":["sum","a","b","module","exports"],"mappings":";;AAAA;;;;AAIA,SAASA,GAAT,CAAaC,CAAb,EAAgBC,CAAhB,EAAmB;AACjB,SAAOD,IAAIC,CAAX;AACD;AACDC,OAAOC,OAAP,GAAiBJ,GAAjB","file":"sum.js","sourcesContent":["/**\n * Created by Arthur on 2017/7/6.\n */\n\nfunction sum(a, b) {\n  return a + b;\n}\nmodule.exports = sum;\n"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../statics/hello.js"],"names":["console","log"],"mappings":";;AAAAA,QAAQC,GAAR,CAAY,aAAZ","file":"hello.js","sourcesContent":["console.log('hello world');"]}
