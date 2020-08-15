@@ -4,7 +4,6 @@
   "description": "",
   "main": "test2.js",
   "dependencies": {
-    "@nirvana/nirvana-develop-openapi": "0.0.279",
     "babel-cli": "^6.24.1",
     "babel-eslint": "^8.0.3",
     "babel-plugin-transform-decorators": "^6.24.1",
@@ -25,8 +24,6 @@
     "hapi": "^17.1.1",
     "hoek": "^5.0.2",
     "htmlparser2": "^3.9.2",
-    "iconv": "^2.3.0",
-    "iconv-lite": "^0.4.19",
     "inert": "^5.0.1",
     "inquirer": "^3.3.0",
     "jest": "^20.0.4",
@@ -56,6 +53,10 @@
   },
   "devDependencies": {
     "del": "^3.0.0",
+    "eslint": "^7.6.0",
+    "eslint-config-recommended": "^4.1.0",
+    "eslint-plugin-html": "^6.0.2",
+    "eslint-plugin-json": "^2.1.2",
     "gulp-babel": "^7.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-jshint": "^2.0.4",
