@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="id1">1111
+        <div id="id2">2222
+            <div id="id3" >33333</div>
+        </div>
+    </div>
+</body>
+<script>
+      document.getElementById('id1').addEventListener('click',()=>{
+        console.log(0)
+    },true)
+    document.getElementById('id2').addEventListener('click',()=>{
+        console.log(111)
+    },false)
+    document.getElementById('id2').addEventListener('click',(event)=>{
+        event.stopPropagation()
+        console.log(222)
+    },true)
+    document.getElementById('id3').addEventListener('click',()=>{
+        console.log(333)
+    },true)
+</script>
+</html>
