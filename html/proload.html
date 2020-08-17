@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preload" as="script" href="./js/proload.js"
+        onload="var script = document.createElement('script'); script.src = this.href; document.body.appendChild(script);">
+</head>
+
+<body>
+
+</body>
+<script>
+    window.onload = function () {
+        console.log('window.onload', Date.now())
+    }
+</script>
+<!-- window.onload 1597662070329
+    test-end 1597662070361
+    test-end 2
+    可以看出 link preload onload的解析是晚于 window.onload的  说明不会阻塞window.onload
+-->
+
+</html>
