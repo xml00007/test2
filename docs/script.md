@@ -81,6 +81,7 @@ document.body.appendChild(script);
 
 ### 参考
 
+- [mdn](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
+
 - [关于Preload, 你应该知道些什么？](https://www.jianshu.com/p/24ffa6d45087)
 
-- [使用`<link rel="preload">`进行预加载](https://www.jianshu.com/p/e70d015554e5)
