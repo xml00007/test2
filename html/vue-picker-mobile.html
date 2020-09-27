@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <div class="picker">
+        <div class="bg">
+            <p>vue-picker-mobile</p>
+        </div>
+        <div class="btnList">
+            <input type="button" value="单列" :class="{choose:show1}" @click="onClick(1)">
+            <input type="button" value="双列非联动" :class="{choose:show2}" @click="onClick(2)">
+            <input type="button" value="双列联动" :class="{choose:show3}" @click="onClick(3)">
+        </div>
+        <div class="btnList">
+            <input type="button" value="年月日联动" :class="{choose:show4}" @click="onClick(4)">
+            <input type="button" value="多列非联动" :class="{choose:show5}" @click="onClick(5)">
+            <input type="button" value="多列联动" :class="{choose:show6}" @click="onClick(6)">
+        </div>
+
+        <Picker @onChange="onChange" :height="40" :className="'redColor'" :defaultValue="defaultValue1"
+            :isMulti="isMulti1" :list="list1" :show.sync="show1"></Picker>
+        <Picker @onChange="onChange" :isMulti="isMulti2" :list="list2" :defaultValue="defaultValue2" :show.sync="show2">
+        </Picker>
+        <Picker @onChange="onChange" :isMulti="isMulti3" :isRelate="isRelate3" :list="list3"
+            :defaultValue="defaultValue3" :show.sync="show3"></Picker>
+        <Picker @onChange="onChange" :isMulti="isMulti4" :isRelate="isRelate4" :list="list4"
+            :defaultValue="defaultValue4" :show.sync="show4"></Picker>
+        <Picker @onChange="onChange" :isMulti="isMulti5" :list="list5" :defaultValue="defaultValue5" :show.sync="show5">
+        </Picker>
+        <Picker @onChange="onChange" :isMulti="isMulti6" :isRelate="isRelate6" :list="list6"
+            :defaultValue="defaultValue6" :show.sync="show6"></Picker>
+
+        <div class="tips">
+            <p>默认值: {{defaultValue}}</p>
+            <p>当前选中值:{{result}}</p>
+        </div>
+    </div>
+</body>
+
+</html>

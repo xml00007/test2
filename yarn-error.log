@@ -1,0 +1,60 @@
+Arguments: 
+  /usr/local/bin/node /Users/xinmingliang/.npm-global/bin/yarn add vue-picker-mobile
+
+PATH: 
+  /Users/xinmingliang/.npm-global/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Users/xinmingliang/.npm-global/bin
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  12.14.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/xinmingliang/Documents/project/test2/package.json: Unexpected token / in JSON at position 151
+      at JSON.parse (<anonymous>)
+      at /Users/xinmingliang/.npm-global/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/xinmingliang/.npm-global/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/xinmingliang/.npm-global/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+      "name": "test2",
+      "version": "1.0.0",
+      "description": "",
+      "main": "test2.js",
+      "dependencies": {},
+      "devDependencies": {
+          // "del": "^3.0.0",
+          // "eslint": "^7.6.0",
+          // "eslint-config-recommended": "^4.1.0",
+          // "eslint-plugin-html": "^6.0.2",
+          // "eslint-plugin-json": "^2.1.2",
+          // "gulp-babel": "^7.0.0",
+          // "gulp-concat": "^2.6.1",
+          // "gulp-jshint": "^2.0.4",
+          // "gulp-minify-css": "^1.2.4",
+          // "gulp-rename": "^1.2.2",
+          // "gulp-uglify": "^3.0.0",
+          // "lerna": "^2.10.1"
+      },
+      "scripts": {
+          "start": "echo hello xml",
+          "stop": "echo hello xml1111",
+          "test": "echo hello world",
+          "model": "./node_modules/.bin/sequelize-auto -h localhost -d test -u admin -x 123456 -C -o ./sequelize/Models/mysql"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
