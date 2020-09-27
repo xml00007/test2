@@ -8,7 +8,6 @@ function findMedianSortedArrays(arr1, arr2) {
 //i: arr1的起始位置 j: arr2的起始位置
 function findKth(arr1, i, arr2, j, k) {
     console.log('findKth===>', arr1, i, arr2, j, k);
-    if (k === 1.5) return
     if (i >= arr1.length) return arr2[j + k - 1];//arr1为空数组
     if (j >= arr2.length) return arr1[i + k - 1];//arr2为空数组
     if (k == 1) {
