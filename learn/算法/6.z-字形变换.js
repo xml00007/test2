@@ -57,7 +57,7 @@ var convert = function (s, numRows) {
 
 
 // https://leetcode-cn.com/problems/zigzag-conversion/solution/ji-jian-jie-fa-by-ijzqardmbd/
-var convert = function (s, numRows) {
+var convert1 = function (s, numRows) {
     if (numRows === 1) return s;
     const rows = new Array(numRows).fill("");
     const n = 2 * numRows - 2;
@@ -69,7 +69,7 @@ var convert = function (s, numRows) {
 };
 
 // https://leetcode-cn.com/problems/zigzag-conversion/solution/hua-jie-suan-fa-6-z-zi-xing-bian-huan-by-guanpengc/
-var convert = function (s, numRows) {
+var convert2 = function (s, numRows) {
     if (numRows == 1)
         return s;
 
@@ -92,4 +92,6 @@ var convert = function (s, numRows) {
     }
     return ans;
 }
+
+console.log(convert1('LEETCODEISHIRING',3));
 
