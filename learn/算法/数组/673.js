@@ -85,6 +85,8 @@ function LIS(arr) {
     return resLen;
 }
 
+console.log(LIS([1, 7, 3, 4, 6]));
+
 
 // https://en.wikipedia.org/wiki/Longest_increasing_subsequence
 function getSequence2(arr) {

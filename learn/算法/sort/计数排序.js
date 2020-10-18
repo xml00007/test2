@@ -1,9 +1,9 @@
 // https://www.cnblogs.com/kyoner/p/10604781.html
 function countingSort(array) {
-    var len = array.length,
+    var len = array.length, max,
         B = [],
         C = [],
-        min = (max = array[0]);
+        min = max = array[0];
     console.time("计数排序耗时");
     for (var i = 0; i < len; i++) {
         min = min <= array[i] ? min : array[i];

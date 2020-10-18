@@ -1,5 +1,8 @@
 # CORS
 
+CORS 是一个 W3C 标准，全称是"跨域资源共享"（Cross-origin resource sharing）。
+它允许浏览器向跨源服务器，发出 XMLHttpRequest 请求，从而克服了 AJAX 只能同源使用的限制。
+
 ## 为什么要发预检请求
 
 我们都知道浏览器的同源策略，就是出于安全考虑，浏览器会限制从脚本发起的跨域 HTTP 请求，像 XMLHttpRequest 和 Fetch 都遵循同源策略。
@@ -25,7 +28,15 @@
 - HEAD
 - POST
 
-2. Content-Type 的值仅限于下列三者之一：
+2. HTTP 的头信息不超出以下几种字段
+
+- Accept
+- Accept-Language
+- Content-Language
+- Last-Event-ID
+- Content-Type：只限于三个值 application/x-www-form-urlencoded、multipart/form-data、text/plain
+
+3. Content-Type 的值仅限于下列三者之一
 
 - text/plain
 - multipart/form-data

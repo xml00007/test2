@@ -97,6 +97,6 @@ function lisWithAllOutput(n) {
     return res
 }
 
-// console.log('find=====>', lis([0, 5, 12, 7, 3, 4, 17, 2, 8, 6, 10]))
-console.log('find=====>', lisWithAllOutput([0, 12, 4, 17, 2, 8, 6, 10]))
+console.log('find=====>', lis([0, 5, 12, 7, 3, 4, 17, 2, 8, 6, 10]))
+// console.log('find=====>', lisWithAllOutput([0, 12, 4, 17, 2, 8, 6, 10]))
 // console.log('find=====>', lis([3, 4, 17, 2, 8, 6, 10]))

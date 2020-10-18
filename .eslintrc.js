@@ -79,6 +79,7 @@ module.exports = {
         // 'no-useless-escape': 0,
         'no-unused-vars': 0,
         'no-empty': 0,
+        'no-debugger': 0,
         'no-restricted-globals': ['error', 'event', 'fdescribe'],
     },
 };
