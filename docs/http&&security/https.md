@@ -6,6 +6,8 @@
 
 [https://blog.csdn.net/qq_35642036/article/details/82788421#HTTPS%E7%9A%84%E7%BC%BA%E7%82%B9](https://blog.csdn.net/qq_35642036/article/details/82788421#HTTPS%E7%9A%84%E7%BC%BA%E7%82%B9)
 
+[为什么 HTTPS 比 HTTP 更安全?](https://blog.csdn.net/howgod/article/details/89596638)
+
 ## SSL、TSL 关系
 
 Android 8.0 禁用了 SSL，所以我们一定非常好奇二者之间的区别，为什么会有两种协议，而且总是并列提起。

@@ -58,3 +58,5 @@ CORS 是一个 W3C 标准，全称是"跨域资源共享"（Cross-origin resourc
 (三) 当前端配置请求头时, 后端需要配置 Access-Control-Allow-Headers 为对应的请求头集合
 (四) 浏览器端需要设置响应头的 Access-Control-Allow-Methods，Access-Control-Allow-Headers，Access-Control-Allow-Origin 等字段，指定允许的方法，头部，源等信息。
 请求分为简单请求和非简单请求，非简单请求会先进行一次 OPTION 方法进行预检，看是否允许当前跨域请求。
+
+[参考](http://www.ruanyifeng.com/blog/2016/04/cors.html)
